@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+
+<!--
+  Copyright 2005-2007, University of Wisconsin-Madison
+  Author: James Domingo, UW-Madison, FLEL
+-->
+
+<project name="Edu.Wisc.Forest.Flel.Test.Util">
+
+    <description>Tests for utility library</description>
+
+    <property name="project.type"   value="library" />
+    <property name="version"        value="1.2" />
+
+    <include buildfile="${environment::get-variable('FLEL_DEVKIT')}/NUnit-project.build" />
+</project>

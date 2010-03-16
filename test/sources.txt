@@ -1,0 +1,4 @@
+*.cs
+assembly/*.cs
+input/*.cs
+plug-ins/*.cs
