@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Landis.Utilities", "src\Landis.Utilities.csproj", "{9F30C0FC-2DAC-463E-93BD-A7A56D342BD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F30C0FC-2DAC-463E-93BD-A7A56D342BD5}.Debug|x86.ActiveCfg = Debug|x86
+		{9F30C0FC-2DAC-463E-93BD-A7A56D342BD5}.Debug|x86.Build.0 = Debug|x86
+		{9F30C0FC-2DAC-463E-93BD-A7A56D342BD5}.Release|x86.ActiveCfg = Release|x86
+		{9F30C0FC-2DAC-463E-93BD-A7A56D342BD5}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = src\Landis.Utilities.csproj
+	EndGlobalSection
+EndGlobal

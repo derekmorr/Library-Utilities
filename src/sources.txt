@@ -1,7 +1,0 @@
-*.cs
-assembly/*.cs
-byte methods/*.cs
-diagnostics/*.cs
-input/*.cs
-modules/*.cs
-plug-ins/*.cs
