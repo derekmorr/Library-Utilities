@@ -6,7 +6,7 @@
 
 using System;
 
-namespace Edu.Wisc.Forest.Flel.Util
+namespace Landis.Utilities
 {
     /// <summary>
     /// Information about the current  application.

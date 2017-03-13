@@ -6,7 +6,7 @@
 
 using System.Text;
 
-namespace Edu.Wisc.Forest.Flel.Util
+namespace Landis.Utilities
 {
     public class LineReaderException
         : MultiLineException

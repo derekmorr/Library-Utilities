@@ -8,7 +8,7 @@ using System;
 using System.Collections.Generic;
 using System.Globalization;
 
-namespace Edu.Wisc.Forest.Flel.Util
+namespace Landis.Utilities
 {
     public static class InputValues
     {

@@ -7,7 +7,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Edu.Wisc.Forest.Flel.Util
+namespace Landis.Utilities
 {
     /// <summary>
     /// A line that is read from a LineReader and that has an InputVariable.

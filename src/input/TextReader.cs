@@ -6,7 +6,7 @@
 
 using System.Text;
 
-namespace Edu.Wisc.Forest.Flel.Util
+namespace Landis.Utilities
 {
     /// <summary>
     /// A class with method for working with System.IO.TextReader objects.

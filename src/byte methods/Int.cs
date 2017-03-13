@@ -14,7 +14,7 @@
 
 using System;
 
-namespace Edu.Wisc.Forest.Flel.Util.ByteMethods
+namespace Landis.Utilities.ByteMethods
 {
     public class Int
         : IByteMethods<int>

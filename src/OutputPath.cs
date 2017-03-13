@@ -7,7 +7,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Edu.Wisc.Forest.Flel.Util
+namespace Landis.Utilities
 {
     /// <summary>
     /// Methods for working with paths of output files.

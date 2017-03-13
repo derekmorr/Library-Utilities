@@ -4,7 +4,7 @@
 // Contributors: 
 //   James Domingo, Forest Landscape Ecology Lab, UW-Madison 
 
-namespace Edu.Wisc.Forest.Flel.Util
+namespace Landis.Utilities
 {
     /// <summary>
     /// An input variable whose value is read from a string or text file.

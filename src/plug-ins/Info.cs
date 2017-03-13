@@ -14,7 +14,7 @@
 
 using System.Collections.Generic;
 
-namespace Edu.Wisc.Forest.Flel.Util.PlugIns
+namespace Landis.Utilities.PlugIns
 {
     /// <summary>
     /// Information about a plug-in.

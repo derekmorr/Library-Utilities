@@ -6,7 +6,7 @@
 
 using SysDiag = System.Diagnostics;
 
-namespace Edu.Wisc.Forest.Flel.Util.Diagnostics
+namespace Landis.Utilities.Diagnostics
 {
     /// <summary>
     /// A TraceListener that throws a AssertException; intended to be used
@@ -33,16 +33,16 @@ namespace Edu.Wisc.Forest.Flel.Util.Diagnostics
     ///         {
     ///             //  initialize other members
     ///
-    ///             listeners = Edu.Wisc.Forest.Flel.Util.Diagnostics.TraceListener.Copy(Debug.Listeners);
+    ///             listeners = Landis.Utilities.Diagnostics.TraceListener.Copy(Debug.Listeners);
     ///             Debug.Listeners.Clear();
-    ///             Debug.Listeners.Add(new Edu.Wisc.Forest.Flel.Util.Diagnostics.TraceListener());
+    ///             Debug.Listeners.Add(new Landis.Utilities.Diagnostics.TraceListener());
     ///         }
     ///
     ///         //---------------------------------------------------------------------
     ///
     ///         [Test]
     ///         [System.Diagnostics.Conditional("Debug")]
-    ///         [ExpectedException(typeof(Edu.Wisc.Forest.Flel.Util.Diagnostics.AssertException))]
+    ///         [ExpectedException(typeof(Landis.Utilities.Diagnostics.AssertException))]
     ///         public void SomeTest()
     ///         {
     ///             //  Call some method that call Debug.Assert

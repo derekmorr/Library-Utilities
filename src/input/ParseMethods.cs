@@ -4,7 +4,7 @@
 // Contributors: 
 //   James Domingo, Forest Landscape Ecology Lab, UW-Madison 
 
-namespace Edu.Wisc.Forest.Flel.Util
+namespace Landis.Utilities
 {
     /// <summary>
     /// A method to parse a string for an input value of a specific type.

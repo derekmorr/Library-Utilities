@@ -6,7 +6,7 @@
 
 using System;
 
-namespace Edu.Wisc.Forest.Flel.Util
+namespace Landis.Utilities
 {
     /// <summary>
     /// A range of values.  The type T must have two public constant fields

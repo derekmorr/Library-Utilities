@@ -10,7 +10,7 @@ using System.Globalization;
 using System.Text;
 using IO = System.IO;
 
-namespace Edu.Wisc.Forest.Flel.Util
+namespace Landis.Utilities
 {
     /// <summary>
     /// Methods for getting information about types.

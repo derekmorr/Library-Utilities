@@ -4,7 +4,7 @@
 // Contributors: 
 //   James Domingo, Forest Landscape Ecology Lab, UW-Madison 
 
-namespace Edu.Wisc.Forest.Flel.Util
+namespace Landis.Utilities
 {
     /// <summary>
     /// An exception that is associated with a specific type.

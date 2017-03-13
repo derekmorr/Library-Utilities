@@ -6,7 +6,7 @@
 
 using System.Diagnostics;
 
-namespace Edu.Wisc.Forest.Flel.Util
+namespace Landis.Utilities
 {
     /// <summary>
     /// An exception with an multiline text message.

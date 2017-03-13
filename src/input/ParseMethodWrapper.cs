@@ -4,7 +4,7 @@
 // Contributors: 
 //   James Domingo, Forest Landscape Ecology Lab, UW-Madison 
 
-namespace Edu.Wisc.Forest.Flel.Util
+namespace Landis.Utilities
 {
     /// <summary>
     /// Wrapper for ParseMethod so it can used as a ReadMethod.
