@@ -16,7 +16,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Reflection;
 
-namespace Edu.Wisc.Forest.Flel.Util.PlugIns
+namespace Landis.Utilities.PlugIns
 {
     /// <summary>
     /// Methods for loading plug-ins.

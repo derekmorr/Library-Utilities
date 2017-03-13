@@ -6,7 +6,7 @@
 
 using System.Globalization;
 
-namespace Edu.Wisc.Forest.Flel.Util
+namespace Landis.Utilities
 {
     /// <summary>
     /// Wrapper for a ParseMethod2 so it can used as a ParseMethod.

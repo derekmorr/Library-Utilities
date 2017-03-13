@@ -12,7 +12,7 @@
 // Contributors: 
 //   James Domingo, Forest Landscape Ecology Lab, UW-Madison 
 
-namespace Edu.Wisc.Forest.Flel.Util.PlugIns
+namespace Landis.Utilities.PlugIns
 {
     /// <summary>
     /// An exception related to plug-in components.

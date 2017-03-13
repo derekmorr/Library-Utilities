@@ -7,7 +7,7 @@
 using System;
 using IO = System.IO;
 
-namespace Edu.Wisc.Forest.Flel.Util
+namespace Landis.Utilities
 {
     /// <summary>
     /// Methods for working with directories.

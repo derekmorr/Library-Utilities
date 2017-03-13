@@ -6,7 +6,7 @@
 
 using System.Diagnostics;
 
-namespace Edu.Wisc.Forest.Flel.Util
+namespace Landis.Utilities
 {
     /// <summary>
     /// Base class for parsers that parse text input.

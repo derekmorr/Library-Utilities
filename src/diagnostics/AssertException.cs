@@ -4,7 +4,7 @@
 // Contributors: 
 //   James Domingo, Forest Landscape Ecology Lab, UW-Madison 
 
-namespace Edu.Wisc.Forest.Flel.Util.Diagnostics
+namespace Landis.Utilities.Diagnostics
 {
     /// <summary>
     /// An exception that is thrown by TraceListener.

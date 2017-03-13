@@ -7,7 +7,7 @@
 using System.Collections.Generic;
 using System.Text.RegularExpressions;
 
-namespace Edu.Wisc.Forest.Flel.Util
+namespace Landis.Utilities
 {
     public static class Bool
     {

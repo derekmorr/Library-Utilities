@@ -8,7 +8,7 @@ using System;
 using System.IO;
 using Reflection = System.Reflection;
 
-namespace Edu.Wisc.Forest.Flel.Util
+namespace Landis.Utilities
 {
     /// <summary>
     /// Information related NUnit testing framework.

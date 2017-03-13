@@ -12,7 +12,7 @@
 // Contributors: 
 //   James Domingo, Forest Landscape Ecology Lab, UW-Madison 
 
-namespace Edu.Wisc.Forest.Flel.Util.PlugIns
+namespace Landis.Utilities.PlugIns
 {
     /// <summary>
     /// Common interface to all types of plug-ins.

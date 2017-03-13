@@ -6,7 +6,7 @@
 
 using System.IO;
 
-namespace Edu.Wisc.Forest.Flel.Util
+namespace Landis.Utilities
 {
     /// <summary>
     /// A text-based progress bar for console interfaces.

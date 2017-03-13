@@ -7,7 +7,7 @@
 using System.Diagnostics;
 using IO = System.IO;
 
-namespace Edu.Wisc.Forest.Flel.Util
+namespace Landis.Utilities
 {
     public class InputVar<T>
         : InputVariable
