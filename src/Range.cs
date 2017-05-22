@@ -104,8 +104,8 @@ namespace Landis.Utilities
         /// </summary>
         public Range()
         {
-            min = Util.Type.GetMinValue<T>();
-            max = Util.Type.GetMaxValue<T>();
+            min = Type.GetMinValue<T>();
+            max = Type.GetMaxValue<T>();
             minIncluded = true;
             maxIncluded = true;
         }

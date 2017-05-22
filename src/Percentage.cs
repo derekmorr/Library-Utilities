@@ -31,7 +31,7 @@ namespace Landis.Utilities
 
         static Percentage()
         {
-            Util.Type.SetDescription<Percentage>("percentage");
+            Type.SetDescription<Percentage>("percentage");
             InputValues.Register<Percentage>(Percentage.Parse);
 
              MinValue = new Percentage(MinValueAsDouble);
