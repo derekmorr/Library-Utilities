@@ -9,7 +9,7 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
-      <ProjectReference Include="../../landis-core-model/model/core/src/Core.csproj" />
-      <ProjectReference Include="../../Library-Parameters/src/parameter-lib.csproj" />
+    <PackageReference Include="Landis.Core" Version="1.0.0-CI00001" />
+    <PackageReference Include="Landis.Library.Parameters-v1" Version="1.0.0-CI00000" />
   </ItemGroup>
 </Project>

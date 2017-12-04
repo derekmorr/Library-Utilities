@@ -1,7 +1,6 @@
 ﻿using Landis.Core;
 using Landis.Library.Parameters;
 using Landis.Library.Parameters.Ecoregions;
-//using Landis.Library.Parameters.Species;
 
 namespace Landis.Utilities
 {
